@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookstoreBot", "BookstoreBot\BookstoreBot.csproj", "{D461AE77-6C05-4D2E-A787-FB974598A20D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D461AE77-6C05-4D2E-A787-FB974598A20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D461AE77-6C05-4D2E-A787-FB974598A20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D461AE77-6C05-4D2E-A787-FB974598A20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D461AE77-6C05-4D2E-A787-FB974598A20D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74FA09F9-E5E7-4630-A405-57ADC7C03B12}
+	EndGlobalSection
+EndGlobal
